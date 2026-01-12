@@ -88,7 +88,7 @@ Agar muammo yuzaga kelsa:
 
 ## 📞 Yordam
 
-Savollar bo'lsa, issue oching yoki contact qiling.
+Savollar bo'lsa, issue oching.
 
 ## 📄 License
 
